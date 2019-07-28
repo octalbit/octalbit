@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1 className="app-title">octal<span>bit</span></h1>
-        <p>Desenvolvimento de sites, sistemas e aplicativos.</p>
+        <p className="app-subtitle">Desenvolvimento de sites, sistemas e aplicativos.</p>
       </header>
     </div>
   );
